@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Devcrew_CustomTabMedia" setup_version="1.0.0">
+    <sequence>
+     <!-- Your tab will be added on the last place -->
+     <module name='Devcrew_ShopperApproved'/>
+</sequence>
+</module>
+</config>
